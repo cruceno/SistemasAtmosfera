@@ -39,4 +39,11 @@
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>atmosfera</name>
+			<type>2</type>
+			<location>C:/xampp/htdocs/atmosfera</location>
+		</link>
+	</linkedResources>
 </projectDescription>
